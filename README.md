@@ -1,10 +1,10 @@
 # whatsapp
 
-A new Flutter project.
+WhatsAppClone is a powerful and secure messaging application that mirrors the functionalities of the widely-used WhatsApp. This cutting-edge clone is designed to provide users with a seamless and reliable communication experience, connecting people across the globe.
 
 ## Getting Started
+![WhatsApp Logo](assets/whatsapp_logo.png)
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
